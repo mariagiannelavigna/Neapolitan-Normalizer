@@ -1,4 +1,5 @@
-# Neapolitan Normalizer
+# Neapolitan Normalizer on Nooj
+[Nooj App](https://nooj.univ-fcomte.fr/downloads.html)
 
 This project aims to develop an automatic tool — Normalizer — for converting non-standard Neapolitan word forms into their standardized equivalents. The problem lies in the fact that, nowadays, Neapolitan is written online in highly variable ways that differ significantly from its standardized orthographic form. For instance, on social media platforms — such as TikTok — Neapolitan is often written in phonetic forms (“by ears”), which can hinder comprehension and differ significantly from standardized orthographic conventions. This can result as a problem, especially for researchers who study the language and try to make computer programs based on Neapolitan Language.
 
