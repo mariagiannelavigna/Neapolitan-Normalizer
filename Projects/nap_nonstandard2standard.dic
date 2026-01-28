@@ -1,0 +1,55 @@
+# NooJ V7
+# Dictionary
+#
+# Language is: it
+#
+# Alphabetical order is not required.
+#
+# Use inflectional & derivational paradigms' description files (.nof), e.g.:
+# Special Command: #use paradigms.nof
+#
+# Special Features: +NW (non-word) +FXC (frozen expression component) +UNAMB (unambiguous lexical entry)
+#                   +FLX= (inflectional paradigm) +DRV= (derivational paradigm)
+#
+# Special Characters: '\' '"' ' ' ',' '+' '-' '#'
+#
+#+ADV (avverbio) +LOC (espressione) +AGG (aggettivo) +SOST (sostantivo)
+
+arò,ADV+NA="addò"
+ascij,VERB+NA="ascì"
+afor,ADV+NA="'a fora"
+blizz,SOST+NA="bellezza"
+chiagn,VERB+NA="chiagne"
+chian,AGG+NA="chianu"
+è frnut a pacchij,LOC+NA="è fernuto a pacchia"
+faj buon,LOC+NA="faje buono"
+femmn,SOST+NA="fémmena"
+glos,M+AGG+NA="geluso"
+joc,SOST+NA="juóco"
+kest,PRON+NA="chest'e"
+kwann,ADV+NA="quanno"
+ij,VERB+NA="ji"
+machin,SOST+NA="machèna"
+mett scuorn,LOC+NA="mettete scuorno"
+mrius,AGG+NA="mmiriuso"
+nda,LOC+NA="'int' 'a"
+ng pensa,LOC+NA="nun ce penza"
+nguoll a,LOC+NA="nguóllo"
+no sacc,LOC+NA="nun o' saccio"
+nu cia facc,LOC+NA="nun ce la faccio"
+numr,SOST+NA="numméro"
+p,PREP+NA="pe"
+pkke,ADV+NA="pecché"
+pozz,VERB+NA="pòzzo"
+quell,PRON+NA="chella"
+ro,PREP+NA="d' 'o"
+scimità,SOST+NA="scèmità"
+semplic,SOST+NA="sèmprécé"
+si gruoss,LOC+NA="si' gruósso"
+stu,PREP+NA="'sto"
+tiemb,SOST+NA="tiémpo"
+to giur,LOC+NA="'t' 'o giur"
+tuoij,AGG+NA="tuòjo"
+uaio,SOST+NA="guaglió'"
+vaj,VERB+NA="vaj"
+vni,VERB+NA="vèni"
